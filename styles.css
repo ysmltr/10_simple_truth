@@ -1,0 +1,20 @@
+body {
+    background-color: #f7f7f7;
+}
+
+h1 {
+    color: #606060;
+}
+
+.life-truths-list {
+    padding: 1rem;
+}
+
+.truth-item {
+    margin-bottom: 1rem;
+}
+
+.truth-highlight {
+    font-weight: bold;
+    font-size: 1.2em;
+}
